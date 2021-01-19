@@ -1,0 +1,120 @@
+[15-Jan-2020 10:05:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/obejorng/public_html/seller_mobile/sellerorders.php:2) in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 3
+[15-Jan-2020 10:05:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sellerorders.php:2) in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 5
+[15-Jan-2020 10:05:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sellerorders.php:2) in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[15-Jan-2020 10:05:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sellerorders.php:2) in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[16-Mar-2020 13:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sendpushnotification.php:2) in /home/obejorng/public_html/seller_mobile/curl/index.php on line 2
+[16-Mar-2020 13:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sendpushnotification.php:2) in /home/obejorng/public_html/seller_mobile/curl/index.php on line 3
+[16-Mar-2020 13:40:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sendpushnotification.php:2) in /home/obejorng/public_html/seller_mobile/curl/index.php on line 4
+[16-Mar-2020 13:42:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sendpushnotification.php:2) in /home/obejorng/public_html/seller_mobile/curl/index.php on line 2
+[16-Mar-2020 13:42:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sendpushnotification.php:2) in /home/obejorng/public_html/seller_mobile/curl/index.php on line 3
+[16-Mar-2020 13:42:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/obejorng/public_html/seller_mobile/sendpushnotification.php:2) in /home/obejorng/public_html/seller_mobile/curl/index.php on line 4
+[21-Oct-2020 11:09:08 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[21-Oct-2020 11:09:08 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[21-Oct-2020 11:09:08 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[28-Oct-2020 06:52:35 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[28-Oct-2020 06:52:35 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[28-Oct-2020 06:52:35 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[11-Nov-2020 15:54:42 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[11-Nov-2020 15:54:42 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[11-Nov-2020 15:54:42 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 08:58:33 Africa/Lagos] PHP Notice:  Undefined index: email in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 4
+[12-Nov-2020 08:58:33 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 08:58:54 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 08:58:57 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 08:58:59 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 08:59:00 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 08:59:01 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:05:07 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:08:10 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:09:18 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:11:11 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:11:15 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:11:16 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:02 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:04 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:05 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:06 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:08 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:56 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:58 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:12:59 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:13:01 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:13:31 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:13:33 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:14:24 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:15:10 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:15:56 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:15:57 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:15:59 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:36 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:37 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:39 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:40 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:42 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:44 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 09:25:45 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:26 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:28 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:30 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:32 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:34 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:35 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:36 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:14:37 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:15:33 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:19:12 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:28:06 Africa/Lagos] PHP Notice:  Undefined index: password in /home/obejorng/public_html/seller_mobile/sellerlogin.php on line 5
+[12-Nov-2020 10:30:55 Africa/Lagos] PHP Warning:  curl_error(): 3 is not a valid cURL handle resource in /home/obejorng/public_html/seller_mobile/curl/index.php on line 30
+[12-Nov-2020 11:11:19 Africa/Lagos] PHP Notice:  Undefined variable: curl in /home/obejorng/public_html/seller_mobile/curl/index.php on line 16
+[12-Nov-2020 11:11:19 Africa/Lagos] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/obejorng/public_html/seller_mobile/curl/index.php on line 16
+[12-Nov-2020 11:28:42 Africa/Lagos] PHP Notice:  Undefined variable: curl in /home/obejorng/public_html/seller_mobile/curl/index.php on line 20
+[12-Nov-2020 11:28:42 Africa/Lagos] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/obejorng/public_html/seller_mobile/curl/index.php on line 20
+[12-Nov-2020 11:28:42 Africa/Lagos] PHP Notice:  Undefined variable: curl in /home/obejorng/public_html/seller_mobile/curl/index.php on line 21
+[12-Nov-2020 11:28:42 Africa/Lagos] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/obejorng/public_html/seller_mobile/curl/index.php on line 21
+[12-Nov-2020 11:28:42 Africa/Lagos] PHP Notice:  Undefined variable: curl in /home/obejorng/public_html/seller_mobile/curl/index.php on line 22
+[12-Nov-2020 11:28:42 Africa/Lagos] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/obejorng/public_html/seller_mobile/curl/index.php on line 22
+[12-Nov-2020 11:33:01 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:33:01 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:33:01 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 11:35:23 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:35:23 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:35:23 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 11:37:25 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:37:25 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:37:25 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 11:39:05 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:39:05 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:39:05 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 11:39:12 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:39:12 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:39:12 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 11:39:22 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:39:22 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:39:22 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 11:42:31 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 11:42:31 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 11:42:31 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 13:09:56 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 13:09:56 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 13:09:56 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 15:08:50 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 15:08:50 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 15:08:50 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 15:26:06 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 15:26:06 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 15:26:06 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 15:28:28 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 15:28:28 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 15:28:28 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[12-Nov-2020 15:29:57 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[12-Nov-2020 15:29:57 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[12-Nov-2020 15:29:57 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[14-Nov-2020 09:54:34 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[14-Nov-2020 09:54:34 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[14-Nov-2020 09:54:34 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[17-Nov-2020 13:56:03 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[17-Nov-2020 13:56:03 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[17-Nov-2020 13:56:03 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
+[17-Nov-2020 13:59:42 Africa/Lagos] PHP Notice:  Undefined index: datefrom in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 6
+[17-Nov-2020 13:59:42 Africa/Lagos] PHP Notice:  Undefined index: dateto in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 7
+[17-Nov-2020 13:59:42 Africa/Lagos] PHP Notice:  Undefined index: pageno in /home/obejorng/public_html/seller_mobile/sellerorders.php on line 8
